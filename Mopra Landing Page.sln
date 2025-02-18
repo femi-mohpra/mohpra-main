@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mopra Landing Page", "Mopra Landing Page.csproj", "{08506FE0-5EC1-49D2-9961-BB974CC4C511}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08506FE0-5EC1-49D2-9961-BB974CC4C511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08506FE0-5EC1-49D2-9961-BB974CC4C511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08506FE0-5EC1-49D2-9961-BB974CC4C511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08506FE0-5EC1-49D2-9961-BB974CC4C511}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE628F33-0CDC-4FD4-B487-7DD922165629}
+	EndGlobalSection
+EndGlobal
