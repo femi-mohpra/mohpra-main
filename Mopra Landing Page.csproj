@@ -7,8 +7,5 @@
     <RootNamespace>Mopra_Landing_Page</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <None Include="wwwroot\assets\" />
-  </ItemGroup>
 
 </Project>

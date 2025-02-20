@@ -1,0 +1,11 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Rounded_Elegance
+font link: https://www.dafont.com/rounded-elegance.font
+font author: Genumano
+font author site: mailto:dcc700@gmail.com
+
+
+{"bg":"#EFEEEB","icon-gradient-0":"#0978A6","icon-gradient-1":"#FB9447","font":"#1F1E1A","slogan":"#33322e"}
+      
