@@ -26,7 +26,7 @@
 ------------------------------------*/
 @media (min-width: 768px) {
   .navbar-brand img {
-    width: 100px;
+    width: 180px;
   }
   .navbar-expand-md .navbar-nav .nav-link {
     padding: 8px 10px;
@@ -35,32 +35,32 @@
     margin-right: 12px;
   }
   .navbar-collapse .nav-link {
-    font-size: 0.875rem;
+    font-size: 0.905rem;
     position: relative;
   }
-  .navbar-collapse .nav-link::before {
-    content: "\f0d8";
-    font-family: FontAwesome;
-    color: #de1f1f;
-    position: absolute;
-    bottom: 7px;
-    line-height: 0;
-    left: 50%;
-    -webkit-transform: translateX(-50%);
-            transform: translateX(-50%);
-    opacity: 0;
-    transition: all 0.35s ease;
-  }
-  .navbar-collapse .nav-link::after {
-    content: "";
-    width: 0;
-    height: 4px;
-    background-color: #de1f1f;
-    position: absolute;
-    left: 50%;
-    bottom: 0;
-    transition: all 0.35s ease;
-  }
+    .navbar-collapse .nav-link::before {
+        content: "\f0d8";
+        font-family: FontAwesome;
+        color: #C6B69C;
+        position: absolute;
+        bottom: 7px;
+        line-height: 0;
+        left: 50%;
+        -webkit-transform: translateX(-50%);
+        transform: translateX(-50%);
+        opacity: 0;
+        transition: all 0.35s ease;
+    }
+    .navbar-collapse .nav-link::after {
+        content: "";
+        width: 0;
+        height: 4px;
+        background-color: #C6B69C;
+        position: absolute;
+        left: 50%;
+        bottom: 0;
+        transition: all 0.35s ease;
+    }
   .navbar-collapse .nav-link:hover::after {
     width: 100%;
     left: 0;
@@ -101,16 +101,16 @@
   .search-icon {
     font-size: 0.875rem;
   }
-  .cart:hover,
-  .search-icon:hover {
-    color: #ee1515;
-  }
+    .cart:hover,
+    .search-icon:hover {
+        color: #dbb2a4;
+    }
   .search-icon {
     margin: 0 13px;
     order: 1;
   }
   .hero .slide-content h1 {
-    font-size: 3.5rem;
+    font-size: 4.5rem;
   }
   .hero .slide-content br {
     display: block;
@@ -151,7 +151,7 @@
     min-height: 100vh;
   }
   .hero .slide-content h1 {
-    font-size: 4.5rem;
+    font-size: 6.5rem;
   }
   .hero .slide-content br {
     display: block;
@@ -169,9 +169,7 @@
     Extra large devices (large desktops, 1200px and up)
 ------------------------------------*/
 @media (min-width: 1200px) {
-  .navbar-brand img {
-    width: auto;
-  }
+
   .title h1 {
     font-size: 58px;
   }

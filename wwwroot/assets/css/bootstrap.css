@@ -18,7 +18,7 @@
   --white: #fff;
   --gray: #777;
   --gray-dark: #343a40;
-  --primary: #ee1515;
+  --primary: #e89980;
   --secondary: #777;
   --success: #28a745;
   --info: #17a2b8;
@@ -167,7 +167,7 @@ sup {
 }
 
 a {
-  color: #ee1515;
+  color: #e89980;
   text-decoration: none;
   background-color: transparent;
   transition: all 0.2s ease-in-out;
